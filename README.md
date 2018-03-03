@@ -1,4 +1,4 @@
-<img width="220" src="https://www.shapeoko.com/images/shapeoko_logo.svg" align="right" />
+<img width="180" src="https://www.shapeoko.com/images/shapeoko_logo.svg" align="right" />
 
 # CNC Orotava Hackerspace
 > Herramientas y utilidades para las CNC del local
@@ -23,9 +23,14 @@ En esta sección incluiremos todas las herramientas utilizadas para el diseño, 
 - [Atom.io](https://atom.io/) -  Editor de código.
 - [Python 2.7](https://www.python.org/download/releases/2.7/) - Lenguaje de programación utilizado para el funcionamiento del control de la máquina.
 - [FreeCAD](https://www.freecadweb.org/?lang=es_ES) - FreeCAD es un modelador 3D paramétrico.
-- [inkscape](https://inkscape.org/es/) - Inkscape es un editor de gráficos vectoriales de código abierto.
-
-
+- [Inkscape](https://inkscape.org/es/) - Inkscape es un editor de gráficos vectoriales de código abierto.
+- [KiCAD](http://kicad-pcb.org/) - Suite de diseño de PCBs.
+- [pcb2Gcode](https://github.com/pcb2gcode/pcb2gcode) - Generador de Gcode para CNC partiendo de un fichero Gerber.
+- [pcb2GcodeGUI](https://github.com/pcb2gcode/pcb2gcodeGUI) - Interfaz gráfica para el generador de Gcode para CNC partiendo de un fichero Gerber.
+- [PyCAM](https://github.com/pib/pycam/wiki) - Generador de GCode partiendo de ficheros STL.
+- [Aspire 8](http://www.vectric.com/products/aspire/whats-new/V8/WhatsNew.html) - Generador/Diseñador de Gcode partiendo de varios formatos.
+- [bCNC](https://github.com/vlachoudis/bCNC) - Programa para el control de la CNC desde un PC.
+- [Universal Gcode Sender](https://github.com/winder/Universal-G-Code-Sender) - Programa para enviar Gcodes a la CNC.
 
 ## Hardware
 
