@@ -34,4 +34,18 @@ En esta sección incluiremos todas las herramientas utilizadas para el diseño, 
 
 ## Hardware
 
+La placa controladora de la CNC es la siguiente:
+
+<p align="center">
+  <img width="450" src="https://github.com/OrotavaHackerspace/CNC/blob/master/Touch%20Plate/Images/IMG_20180303_111458_470.jpg?raw=true">
+</p>
+
+<p align="center">
+  <img width="450" src="https://github.com/OrotavaHackerspace/CNC/blob/master/Touch%20Plate/Images/IMG_20180303_111530_303.jpg?raw=true">
+</p>
+
+La placa se corresponde con la versión 2.4d de Carbide.
+
 ## Referencias
+
+- [Wiki de Shapeoko](https://www.shapeoko.com/wiki/) - Wiki de las CNC Shapeoko.
