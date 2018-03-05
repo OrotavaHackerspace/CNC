@@ -46,6 +46,10 @@ La placa controladora de la CNC es la siguiente:
 
 La placa se corresponde con la versión 2.4d de Carbide.
 
+## Entradas a la Wiki
+
+- [Touch Probe](https://github.com/OrotavaHackerspace/CNC/wiki/Colocaci%C3%B3n-de-%22Touch-probe%22-en-Shapeoko-3-XL) - Instalación de un "touch probe" para la calibración del origen en el eje Z.
+
 ## Referencias
 
 - [Wiki de Shapeoko](https://www.shapeoko.com/wiki/) - Wiki de las CNC Shapeoko.
