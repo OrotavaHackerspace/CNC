@@ -15,6 +15,14 @@ Fresadora utilizada:
   <img width="450" src="https://github.com/OrotavaHackerspace/CNC/blob/master/Touch%20Plate/Images/IMG_20180303_111559_054.jpg?raw=true">
 </p>
 
+Especificaciones:
+
+- Área de corte (XL): 33"(83,82 cm)(X), 16"(40,64 cm)(Y), 3"(7,62 cm)(Z)
+- Peso: 100 lbs (45 kg)
+- Firmware: GRBL
+- Sistema operativo para el software de Carbide: OS X 10.8 o superior, Windows 7, 8, 8.1, 10
+- Motores paso a paso: NEMA 23
+
 ## Herramientas utilizadas
 
 En esta sección incluiremos todas las herramientas utilizadas para el diseño, la generación de GCodes y el control de la CNC. Dichas herramientas son las siguientes:
