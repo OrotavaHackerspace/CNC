@@ -39,6 +39,7 @@ En esta sección incluiremos todas las herramientas utilizadas para el diseño, 
 - [Aspire 8](http://www.vectric.com/products/aspire/whats-new/V8/WhatsNew.html) - Generador/Diseñador de Gcode partiendo de varios formatos.
 - [bCNC](https://github.com/vlachoudis/bCNC) - Programa para el control de la CNC desde un PC.
 - [Universal Gcode Sender](https://github.com/winder/Universal-G-Code-Sender) - Programa para enviar Gcodes a la CNC.
+- [FlatCAM](http://flatcam.org/) - Programa para la generación de GCode de PCBs. 
 
 ## Hardware
 
